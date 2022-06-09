@@ -1,3 +1,5 @@
+# Cricket game genarator
+
 import random
 
 
